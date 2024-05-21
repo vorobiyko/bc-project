@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="ru-RU" original="ALProject4.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 960736685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course</source>
+          <target>Курси</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CRONUS Course - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 960736685 - Field 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <target>Активний</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CRONUS Course - Field Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 960736685 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Код</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CRONUS Course - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 960736685 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Опис</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CRONUS Course - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 960736685 - Field 1623047485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Difficulty</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CRONUS Course - Field Difficulty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 960736685 - Field 1637095154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration;</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CRONUS Course - Field Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 960736685 - Field 2825077820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instructor Code</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CRONUS Course - Field Instructor Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 960736685 - Field 1054423462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instructor Name</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CRONUS Course - Field Instructor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 960736685 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>[NAB: SUGGESTION]Название</target>
+          <target>[NAB: SUGGESTION]Имя</target>
+          <target>[NAB: SUGGESTION]Name</target>
+          <target>[NAB: SUGGESTION]Имя/название</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CRONUS Course - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 960736685 - Field 1353320629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passing Rate</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CRONUS Course - Field Passing Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 960736685 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target>[NAB: SUGGESTION]Цена</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CRONUS Course - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 960736685 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>[NAB: SUGGESTION]Тип</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CRONUS Course - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 960736685 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instructor Led,e-Learning,Remote Training</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CRONUS Course - Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2551924609 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CustomerOverview</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CustomerOverview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2551924609 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>[NAB: SUGGESTION]Сумма</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CustomerOverview - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2551924609 - Field 1881986821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <target>[NAB: SUGGESTION]Имя клиента</target>
+          <target>[NAB: SUGGESTION]Название клиента</target>
+          <target>[NAB: SUGGESTION]Имя/название клиента</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CustomerOverview - Field CustomerName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2551924609 - Field 3689535207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>[NAB: SUGGESTION]Код клиента</target>
+          <target>[NAB: SUGGESTION]Номер клиента</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CustomerOverview - Field CustomerNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2551924609 - Field 1016130111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>[NAB: SUGGESTION]Номер операции</target>
+          <target>[NAB: SUGGESTION]№ операции</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CustomerOverview - Field EntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2551924609 - Field 2578636657 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Run Date</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CustomerOverview - Field LastRunDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2551924609 - Field 3521817716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <target>[NAB: SUGGESTION]Код источника</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CustomerOverview - Field SourceCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 520575728 - Method 1439528424 - NamedType 1398852855" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The existing picture will be replaced. Continue?</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ImageManagement - Method ImportItemPicture - NamedType OverrideImageQst</note>
+        </trans-unit>
+        <trans-unit id="Page 3534050887 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CRONUS Course</source>
+          <target>Кронус Курс</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3534050887 - Control 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>[NAB: SUGGESTION]Код</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course - Control Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3534050887 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>[NAB: SUGGESTION]Опис</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3534050887 - Control 1623047485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Difficulty</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course - Control Difficulty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3534050887 - Control 1637095154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration</source>
+          <target>[NAB: SUGGESTION]Длительность</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course - Control Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3534050887 - Control 2825077820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instructor Code</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course - Control Instructor Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3534050887 - Control 1054423462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instructor Name</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course - Control Instructor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3534050887 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>[NAB: SUGGESTION]Название</target>
+          <target>[NAB: SUGGESTION]Имя</target>
+          <target>[NAB: SUGGESTION]Name</target>
+          <target>[NAB: SUGGESTION]Имя/название</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3534050887 - Control 1353320629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passing Rate</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course - Control Passing Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3534050887 - Control 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target>[NAB: SUGGESTION]Цена</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course - Control Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3534050887 - Control 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>[NAB: SUGGESTION]Тип</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course - Control Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1873061777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course Card</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1873061777 - Control 318613646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <target>[NAB: SUGGESTION]Сведения</target>
+          <target>[NAB: SUGGESTION]Подробности</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course Card - Control Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1873061777 - Control 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <target>[NAB: SUGGESTION]Активний</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course Card - Control Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1873061777 - Control 1637095154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration</source>
+          <target>[NAB: SUGGESTION]Длительность</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course Card - Control Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1873061777 - Control 2825077820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instructor Code</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course Card - Control Instructor Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1873061777 - Control 1054423462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instructor Name</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course Card - Control Instructor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1873061777 - Control 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target>[NAB: SUGGESTION]Цена</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course Card - Control Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1873061777 - Control 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>[NAB: SUGGESTION]Тип</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course Card - Control Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1873061777 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>[NAB: SUGGESTION]Общее</target>
+          <target>[NAB: SUGGESTION]Общие</target>
+          <target>[NAB: SUGGESTION]Общие сведения</target>
+          <target>[NAB: SUGGESTION]Общee</target>
+          <target>[NAB: SUGGESTION]Общий</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1873061777 - Control 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>[NAB: SUGGESTION]Код</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course Card - Control Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1873061777 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>[NAB: SUGGESTION]Опис</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course Card - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1873061777 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>[NAB: SUGGESTION]Название</target>
+          <target>[NAB: SUGGESTION]Имя</target>
+          <target>[NAB: SUGGESTION]Name</target>
+          <target>[NAB: SUGGESTION]Имя/название</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course Card - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1873061777 - Action 1580859378 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the Resource Card</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course Card - Action Resource Card - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1873061777 - Action 1580859378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource</source>
+          <target>[NAB: SUGGESTION]Ресурс</target>
+          <target>[NAB: SUGGESTION]Ресурсы</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course Card - Action Resource Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290544707 - Control 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>[NAB: SUGGESTION]Код</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course List - Control Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290544707 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>[NAB: SUGGESTION]Опис</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course List - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290544707 - Control 1054423462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instructor Name</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course List - Control Instructor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290544707 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>[NAB: SUGGESTION]Название</target>
+          <target>[NAB: SUGGESTION]Имя</target>
+          <target>[NAB: SUGGESTION]Name</target>
+          <target>[NAB: SUGGESTION]Имя/название</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course List - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290544707 - Control 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target>[NAB: SUGGESTION]Цена</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CRONUS Course List - Control Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 136905799 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Overview List</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CustomerOverviewList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 136905799 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Amount field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CustomerOverviewList - Control Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 136905799 - Control 1881986821 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer Name field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CustomerOverviewList - Control CustomerName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 136905799 - Control 3689535207 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No. field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CustomerOverviewList - Control CustomerNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 136905799 - Control 1016130111 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry No. field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CustomerOverviewList - Control EntryNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 136905799 - Control 2578636657 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the LastRunDate field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CustomerOverviewList - Control LastRunDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 136905799 - Control 3521817716 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Source Code field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CustomerOverviewList - Control SourceCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 136905799 - Action 15082997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Records</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CustomerOverviewList - Action ImportRecords - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 759057969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Types Card</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DataTypesCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1907416471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expressions Card</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Expressions Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1907416471 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <target>[NAB: SUGGESTION]Вход - данные</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Expressions Card - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1907416471 - Control 151815974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input V1</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Expressions Card - Control Value1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1907416471 - Control 2533693419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input V2</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Expressions Card - Control Value2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1907416471 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output</source>
+          <target>[NAB: SUGGESTION]Выход</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Expressions Card - Control Output - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1907416471 - Control 3243498896 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output RESULT</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Expressions Card - Control Res - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1907416471 - Action 112385348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ToDo</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Expressions Card - Action TODO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2671153577 - Action 1306239356 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set the interface implementation to Home.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyAddressInterface - Action SendToHome - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2671153577 - Action 1306239356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send to Home.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyAddressInterface - Action SendToHome - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2671153577 - Action 1244763986 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set the interface implementation to Work.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyAddressInterface - Action SendToWork - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2671153577 - Action 1244763986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send to Work.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyAddressInterface - Action SendToWork - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2671153577 - Action 2505542762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select the address.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyAddressInterface - Action WhatsTheAddress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2671153577 - Action 2505542762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whats the Address?</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyAddressInterface - Action WhatsTheAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 293005862 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statements Card</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Statements Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 293005862 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <target>[NAB: SUGGESTION]Вход - данные</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Statements Card - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 293005862 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output</source>
+          <target>[NAB: SUGGESTION]Выход</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Statements Card - Control Output - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 293005862 - Control 1902534058 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LvlTxt</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Statements Card - Control LvlTxt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 293005862 - Control 1548999186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SuggTxt</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Statements Card - Control SuggTxt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 712333111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Customers(s) to XML</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort Customer XML - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1994005900 - NamedType 1333961654" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1994005900">
+          <source>Are you sure that you want to set the %1 to %2?</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2">%1 is Credit Limit caption and %2 is the new Credit Limit value.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCard - NamedType AreYouSureQst</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1994005900 - NamedType 2381744605" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1994005900">
+          <source>The credit limit was rounded to %1 to comply with company policies.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2">%1 is new Credit Limit value</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCard - NamedType CreditLimitRoundedTxt</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1994005900 - NamedType 1760454550" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1994005900">
+          <source>The credit limit is up to date.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCard - NamedType CreditLimitUpToDateTxt</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1994005900 - Action 360998715 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Update Credit Limit</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCard - Action UpdateCreditLimit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1994005900 - Action 360998715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Update Credit Limit</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCard - Action UpdateCreditLimit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 363045002 - Action 1079549426 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Export to XML</source>
+          <target>[NAB: SUGGESTION]Экспорт в XML</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerList - Action ExportToXml - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 363045002 - Action 1079549426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Export to XML</source>
+          <target>[NAB: SUGGESTION]Экспорт в XML</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerList - Action ExportToXml - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2278064392 - Action 1439528424 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Import Item Picture</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemCardPictureExtension - Action ImportItemPicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2278064392 - Action 1439528424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Import Item Picture</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemCardPictureExtension - Action ImportItemPicture - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
